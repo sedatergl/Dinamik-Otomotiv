@@ -1,0 +1,11 @@
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Entities\bin\Debug\netcoreapp2.1\SanalSatis.Entities.deps.json
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Entities\bin\Debug\netcoreapp2.1\SanalSatis.Entities.dll
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Entities\bin\Debug\netcoreapp2.1\SanalSatis.Entities.pdb
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Entities\bin\Debug\netcoreapp2.1\SanalSatis.Core.dll
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Entities\bin\Debug\netcoreapp2.1\SanalSatis.Core.pdb
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Entities\obj\Debug\netcoreapp2.1\SanalSatis.Entities.csprojAssemblyReference.cache
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Entities\obj\Debug\netcoreapp2.1\SanalSatis.Entities.AssemblyInfoInputs.cache
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Entities\obj\Debug\netcoreapp2.1\SanalSatis.Entities.AssemblyInfo.cs
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Entities\obj\Debug\netcoreapp2.1\SanalSatis.Entities.csproj.CopyComplete
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Entities\obj\Debug\netcoreapp2.1\SanalSatis.Entities.dll
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Entities\obj\Debug\netcoreapp2.1\SanalSatis.Entities.pdb

@@ -1,0 +1,102 @@
+﻿@model SanalSatis.WebUI.Models.VehicleAndBrandListViewModel
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/_AdminLayout.cshtml";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Ürün Listesi</h2>
+            <a class="btn btn-xs btn-success" asp-controller="Admin" asp-action="Add">Yeni Marka Ekle</a>
+        </div>
+        <div class="row">
+            <table class="table table-striped table-bordered">
+                <tr>
+                    <td>Marka Adı</td>
+                    <td>Ülke</td>
+                    <td>En çok Satan Model</td>
+                    <td>Marka Piyasa Değeri</td>
+                    <td>Toplam Çalışan</td>
+                    <td>Lokasyon</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                @foreach (var product in Model.Vehicles)
+                {
+                    <tr>
+                        <td>@product.BrandName</td>
+                        <td>@product.Country</td>
+                        <td>@product.BestSeller</td>
+                        <td>@product.MarketValue.ToString("N2")</td>
+                        <td>@product.PersonelCount</td>
+                        <td>@product.Locasyon</td>
+                        <td>
+                            <a class="btn btn-xs btn-info" asp-controller="Admin" asp-action="Update" asp-route-productId="@product.BrandId">Düzenle</a>
+                        </td>
+                        <td>
+                            <a class="btn btn-xs btn-danger DeleteItem" id="DeleteItem" data-target="#basic2" data-toggle="modal"
+                               data-path2="@Url.Action("Delete", "Admin", new { productId = product.BrandId })">Sil</a>
+                        </td>
+
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="basic" tabindex="-1" role="basic" aria-hidden="true" style="display: none;">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                <h4 class="modal-title">Sepet Bilgisi</h4>
+            </div>
+            <div class="modal-body">
+                Ürün Sepete Eklendi
+            </div>
+            <div class="modal-footer">
+                <button id="btnContinueSales" type="button" class="btn btn-primary">Alışverişe Devam Et</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="basic2" tabindex="-1" role="basic2" aria-hidden="true" style="display: none;">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                <h4 class="modal-title">Uyarı</h4>
+            </div>
+            <div class="modal-body">
+                Ürün Silinecek Emin misin?
+            </div>
+            <div class="modal-footer">
+                <button data-dismiss="modal" type="button" class="btn btn-default">Kapat</button>
+                <button id="btnContinueDelete" type="button" class="btn btn-primary">Evet</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var path_to_add;
+    var path_to_delete;
+
+    $(".AddItem").click(function (e) {
+        path_to_add = $(this).data('path');
+    });
+
+    $('#btnContinueSales').click(function () {
+        window.location = path_to_add;
+    });
+    $(".DeleteItem").click(function (e) {
+        path_to_delete = $(this).data('path2');
+    });
+
+    $('#btnContinueDelete').click(function () {
+        window.location = path_to_delete;
+    });
+</script>

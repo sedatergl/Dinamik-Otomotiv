@@ -1,0 +1,15 @@
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Core\bin\Debug\netcoreapp2.0\SanalSatis.Core.deps.json
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Core\bin\Debug\netcoreapp2.0\SanalSatis.Core.dll
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Core\bin\Debug\netcoreapp2.0\SanalSatis.Core.pdb
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Core\obj\Debug\netcoreapp2.0\SanalSatis.Core.AssemblyInfoInputs.cache
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Core\obj\Debug\netcoreapp2.0\SanalSatis.Core.AssemblyInfo.cs
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Core\obj\Debug\netcoreapp2.0\SanalSatis.Core.dll
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Core\obj\Debug\netcoreapp2.0\SanalSatis.Core.pdb
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Core\obj\Debug\netcoreapp2.0\SanalSatis.Core.csprojAssemblyReference.cache
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.Core\bin\Debug\netcoreapp2.0\SanalSatis.Core.deps.json
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.Core\bin\Debug\netcoreapp2.0\SanalSatis.Core.dll
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.Core\bin\Debug\netcoreapp2.0\SanalSatis.Core.pdb
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.Core\obj\Debug\netcoreapp2.0\SanalSatis.Core.AssemblyInfoInputs.cache
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.Core\obj\Debug\netcoreapp2.0\SanalSatis.Core.AssemblyInfo.cs
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.Core\obj\Debug\netcoreapp2.0\SanalSatis.Core.dll
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.Core\obj\Debug\netcoreapp2.0\SanalSatis.Core.pdb

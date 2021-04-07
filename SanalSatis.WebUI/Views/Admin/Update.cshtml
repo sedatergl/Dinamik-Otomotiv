@@ -1,0 +1,48 @@
+﻿@model SanalSatis.WebUI.Models.VehicleUpdateViewModel
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/_AdminLayout.cshtml";
+}
+
+<div class="container">
+
+    <h2>Ürün Güncelleme</h2>
+    <form asp-controller="Admin" asp-action="Update" method="post">
+        <div class="form-group">
+            <label asp-for="Brand.BrandName"></label>
+            <input asp-for="Brand.BrandName" class="form-control" placeholder="Marka Adı" />
+            <span asp-validation-for="Brand.BrandName"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Brand.PersonelCount"></label>
+            <input asp-for="Brand.PersonelCount" class="form-control" placeholder="Personel Sayısı" />
+            <span asp-validation-for="Brand.PersonelCount"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Brand.Country"></label>
+            <input asp-for="Brand.Country" class="form-control" placeholder="Ülke" />
+            <span asp-validation-for="Brand.Country"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Brand.Locasyon"></label>
+            <input asp-for="Brand.Locasyon" class="form-control" placeholder="Lokasyon" />
+            <span asp-validation-for="Brand.Locasyon"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Brand.MarketValue"></label>
+            <input asp-for="Brand.MarketValue" class="form-control" placeholder="Marka Değeri" />
+            <span asp-validation-for="Brand.MarketValue"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Brand.BestSeller"></label>
+            <select asp-for="Brand.BestSeller" class="form-control"
+                    asp-items="@(new SelectList(Model.Vehicles,"VehicleId","VehicleName"))">
+            </select>
+            <span asp-validation-for="Brand.BrandId"></span>
+        </div>
+        <input type="hidden" asp-for="Brand.BrandId" />
+        <input type="submit" value="Update" class="btn btn-xs btn-success" />
+    </form>
+</div>

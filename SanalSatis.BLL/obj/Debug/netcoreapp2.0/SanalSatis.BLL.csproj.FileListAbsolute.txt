@@ -1,0 +1,30 @@
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.BLL.deps.json
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.BLL.dll
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.BLL.pdb
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.Core.dll
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.DAL.dll
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.Entities.dll
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.DAL.pdb
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.Core.pdb
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.Entities.pdb
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.BLL\obj\Debug\netcoreapp2.0\SanalSatis.BLL.csprojAssemblyReference.cache
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.BLL\obj\Debug\netcoreapp2.0\SanalSatis.BLL.AssemblyInfoInputs.cache
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.BLL\obj\Debug\netcoreapp2.0\SanalSatis.BLL.AssemblyInfo.cs
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.BLL\obj\Debug\netcoreapp2.0\SanalSatis.BLL.csproj.CopyComplete
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.BLL\obj\Debug\netcoreapp2.0\SanalSatis.BLL.dll
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.BLL\obj\Debug\netcoreapp2.0\SanalSatis.BLL.pdb
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.BLL.deps.json
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.BLL.dll
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.BLL.pdb
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.Core.dll
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.DAL.dll
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.Entities.dll
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.DAL.pdb
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.Core.pdb
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.BLL\bin\Debug\netcoreapp2.0\SanalSatis.Entities.pdb
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.BLL\obj\Debug\netcoreapp2.0\SanalSatis.BLL.csprojAssemblyReference.cache
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.BLL\obj\Debug\netcoreapp2.0\SanalSatis.BLL.AssemblyInfoInputs.cache
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.BLL\obj\Debug\netcoreapp2.0\SanalSatis.BLL.AssemblyInfo.cs
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.BLL\obj\Debug\netcoreapp2.0\SanalSatis.BLL.csproj.CopyComplete
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.BLL\obj\Debug\netcoreapp2.0\SanalSatis.BLL.dll
+C:\Users\SedatErgül\Desktop\özel sağlık sigortası\SanalSatis\SanalSatis.BLL\obj\Debug\netcoreapp2.0\SanalSatis.BLL.pdb

@@ -1,0 +1,8 @@
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Core\bin\Debug\netcoreapp2.1\SanalSatis.Core.deps.json
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Core\bin\Debug\netcoreapp2.1\SanalSatis.Core.dll
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Core\bin\Debug\netcoreapp2.1\SanalSatis.Core.pdb
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Core\obj\Debug\netcoreapp2.1\SanalSatis.Core.AssemblyInfoInputs.cache
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Core\obj\Debug\netcoreapp2.1\SanalSatis.Core.AssemblyInfo.cs
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Core\obj\Debug\netcoreapp2.1\SanalSatis.Core.dll
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Core\obj\Debug\netcoreapp2.1\SanalSatis.Core.pdb
+D:\Projeler\Web Projeler\SanalSatis\SanalSatis.Core\obj\Debug\netcoreapp2.1\SanalSatis.Core.csprojAssemblyReference.cache
